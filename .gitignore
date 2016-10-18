@@ -1,0 +1,15 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore screenshots
+/screenshot_*.html
+
+# OS X
+.DS_Store
+
+# Ignore IDE files
+/.idea
+
+# Ignore all logfiles and tempfiles.
+/log
+/tmp
